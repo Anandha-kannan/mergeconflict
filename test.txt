@@ -1,2 +1,2 @@
 
-city :andhara
+city :odisa
