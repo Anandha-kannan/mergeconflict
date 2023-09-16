@@ -1,3 +1,2 @@
 
-city :trichy
-
+city :andhara
